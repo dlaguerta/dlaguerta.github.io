@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day One: 100 Days of Code"
+date:   2017-02-06 10:42:22 -0800
+categories:
+---
+Today was Day 1 of my internship at Uber Seattle, but because of the snow, I'll officially start my internship tomorrow!
+
+And that's why I'm starting my 100 Days of Code challenge now, beginning with this website. This github page used to host my first static website ever, built from scratch, but I wanted to add a blog really quickly and learn new things along the way.
+
+Today, I spent most of the day:
+- deleting old code/files
+- playing around with Jekyll and it's default theme, Minima
+- adding new pages
+
+I'm now going through the Jekyll and Minima documentation to learn about overriding some of the defaults and customizing the site. I'm also going to tackle learning SASS.
+
+That's it!
+
