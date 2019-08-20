@@ -3,5 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I'm revamping this website as part of 100 Days of Code, check back again soon!
+Dianne is a zinester, musician, cat dad, and queer weirdo working as a software engineer in Seattle. Dianne with an even weird cat, Foot Foot, and a lovely fiancé, Iris.

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hello There"
+categories:
+---
+I guess I should start with an introduction of sorts: I'm Dianne, I live in Seattle with my beautiful fiancé Iris, and I have a cat named Foot Foot. I currently work as a software engineer, but I don't like to define myself based on my job.
+
+This blog is meant to be a place for me to share what I'm currently interested in, what I'm learning, and maybe recap some of my personal growth and doings around the city and beyond.
+
+You'll see me blog about various topics, and I hope you're ok with that.
+
